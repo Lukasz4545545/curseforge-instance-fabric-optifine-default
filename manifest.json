@@ -1,0 +1,98 @@
+{
+  "minecraft": {
+    "version": "1.17.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.12.12",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "HBFR Fabric Modpack Optifine",
+  "author": "",
+  "files": [
+    {
+      "projectID": 406343,
+      "fileID": 3565282,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3605873,
+      "required": true
+    },
+    {
+      "projectID": 433760,
+      "fileID": 3516262,
+      "required": true
+    },
+    {
+      "projectID": 441024,
+      "fileID": 3478093,
+      "required": true
+    },
+    {
+      "projectID": 322385,
+      "fileID": 3568115,
+      "required": true
+    },
+    {
+      "projectID": 399798,
+      "fileID": 3573934,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3479750,
+      "required": true
+    },
+    {
+      "projectID": 286924,
+      "fileID": 3599744,
+      "required": true
+    },
+    {
+      "projectID": 280647,
+      "fileID": 3367098,
+      "required": true
+    },
+    {
+      "projectID": 409301,
+      "fileID": 3590923,
+      "required": true
+    },
+    {
+      "projectID": 401648,
+      "fileID": 3347660,
+      "required": true
+    },
+    {
+      "projectID": 333287,
+      "fileID": 3519863,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3388827,
+      "required": true
+    },
+    {
+      "projectID": 334259,
+      "fileID": 3548844,
+      "required": true
+    },
+    {
+      "projectID": 319057,
+      "fileID": 3559636,
+      "required": true
+    },
+    {
+      "projectID": 423602,
+      "fileID": 3498010,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
