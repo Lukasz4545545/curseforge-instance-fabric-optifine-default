@@ -1,0 +1,1 @@
+# curceforge-instance-fabric-optifine-default
